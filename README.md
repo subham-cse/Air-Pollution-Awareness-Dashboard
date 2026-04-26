@@ -1,5 +1,17 @@
 # 🌍 Air Pollution Awareness Dashboard (Simplified)
 # Product : AirWatch
+
+## 📌 Note
+This project includes a prototype dashboard hosted on Netlify. It demonstrates the UI and visualization concept. Full backend and real-time data integration are planned as future improvements.
+
+---
+
+## 🌐 Live Demo
+
+🔗 https://aqi-indicator.netlify.app
+
+> Note: This is a prototype/demo version of the Air Pollution Awareness Dashboard showcasing the UI and visualization concept.
+
 ## 📌 Overview
 
 The **Air Pollution Awareness Dashboard** is a web-based project designed to present Air Quality Index (AQI) data in a simple, user-friendly, and visually interactive format.
