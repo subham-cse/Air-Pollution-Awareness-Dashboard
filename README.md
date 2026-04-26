@@ -149,9 +149,6 @@ Encourages sustainable and eco-friendly practices.
 
 ---
 
-![Status](https://img.shields.io/badge/status-prototype-blue)
-![Tech](https://img.shields.io/badge/tech-python%20chart.js%20html-green)
-
 ## 📖 Bibliography
 
 * World Health Organization (WHO)
